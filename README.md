@@ -31,7 +31,7 @@ The data used in this report includes fields such as Amount, Profit, Quantity, A
 
 ## Screenshot
 
-![Dashboard Screenshot]([path_to_screenshot.png](https://github.com/Ayushi-sengupta/PowerBi_E-Commerce_DashBoard/blob/main/dashboard.jpg))
+![Dashboard Screenshot]([[path_to_screenshot.png](https://github.com/Ayushi-sengupta/PowerBi_E-Commerce_DashBoard/blob/main/dashboard.jpg](https://github.com/Ayushi-sengupta/PowerBi_E-Commerce_DashBoard/blob/main/dashboard.jpg?raw=true)))
 
 
 
